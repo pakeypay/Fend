@@ -1,1 +1,9 @@
+
 /* 添加 CSS */
+img{
+    width:300px;height;auto;
+}
+
+#frame{
+    border:2px solid red; margin:10px; box-shadow:4px blue;
+}
