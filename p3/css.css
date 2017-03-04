@@ -1,0 +1,34 @@
+*{
+
+}
+body{
+	widows: 100%;
+}
+h1{
+	color: #2d3c49;
+}
+#name{
+	color: 02b3e4
+}
+#Hdline{
+	background-color: 02b3e4;
+	height: 20px;
+	width: 100%;
+}#bd{
+	color: 02b3e4;
+	height: 300px;
+	width: 100%;
+}
+h2{
+	color: #2d3c49;
+
+}
+h3{
+	color: #7d97ad;
+
+}
+.projects{
+	width: 30%;
+	margin: 5%;
+	
+}
