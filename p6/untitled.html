@@ -1,0 +1,31 @@
+	
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<canvas id="c" width="500px" height="500px"></canvas>
+
+
+<script>
+var c = document.querySelector("#c");
+var ctx = c.getContext("2d");
+
+ctx.fillStyle = "blue";
+ctx.fillRect(0,0,50,50);
+
+ctx.fillStyle = "green"
+ctx.fillRect(100,100,10,10);
+
+ctx.fillStyle = "blue";
+ctx.fillRect(200,10,20,20);
+
+
+ctx.font = "36px ";
+ctx.textAlign ="center";
+ctx.fillStyle ="white";
+ctx.fillText("cam", 500,40)
+</script>
+</body>
+</html>
